@@ -100,7 +100,12 @@
         flycheck
         htmlize
         dictionary
-        untitled-new-buffer))
+        untitled-new-buffer
+	use-package
+	quelpa
+	quelpa-use-package
+	editorconfig
+	dash))
 
 ;; hide compilation buffer when complete
 ;; from http://emacs.stackexchange.com/questions/62/hide-compilation-window
